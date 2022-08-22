@@ -11,6 +11,7 @@ function App() {
 export default App;
 
 // auth
+// admin routes to add/remove items and change prices
 // filtering and sorting
 // product descriptions
 // Product gallery

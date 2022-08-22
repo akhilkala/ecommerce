@@ -8,3 +8,5 @@ export type IMailOptions = {
   subject: string;
   html: string;
 };
+
+export type Role = "user" | "admin";
